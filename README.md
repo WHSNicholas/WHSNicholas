@@ -29,104 +29,49 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
     <a href="https://www.r-project.org" target="_blank"> 
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="35" height="35"/></code> 
     </a> 
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+    <a href="https://www.w3schools.com/c/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="35" height="35"/></code> 
     </a> 
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
         <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="35" height="35"/></code> 
     </a>
-    <!-- Frameworks / Libraries -->
+    <!-- Python Libraries -->
+    <a href="https://numpy.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://pandas.pydata.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://scikit-learn.org/" target="_blank"> 
+        <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="35" height="35"/></code> 
+    </a> 
     <a href="https://pytorch.org/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://pytorch-lightning.readthedocs.io/en/stable/" target="_blank"> 
-        <code><img src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/lightning.png" alt="pytorch-lightning" width="35" height="35"/></code> 
     </a> 
     <a href="https://www.tensorflow.org" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
     </a> 
-    <a href="https://opencv.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://nextjs.org/" target="_blank"> 
-        <code><img src="https://nextjs.org/static/favicon/favicon.ico" alt="nextjs" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> 
-        <code><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwindcss" width="35" height="35"/></code> 
+    <a href="https://xgboost.readthedocs.io/" target="_blank"> 
+        <code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/XGBoost_logo.png" alt="xgboost" width="35" height="35"/></code> 
     </a>
-    <!-- Tools -->
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
+    <!-- R Libraries -->
+    <a href="https://ggplot2.tidyverse.org/" target="_blank"> 
+        <code><img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="35" height="35"/></code> 
     </a> 
-    <a href="https://code.visualstudio.com" target="_blank">
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
+    <a href="https://www.tidyverse.org/" target="_blank"> 
+        <code><img src="https://www.tidyverse.org/images/tidyverse-logo.png" alt="tidyverse" width="35" height="35"/></code> 
     </a> 
-    <!-- Cloud & Databases -->
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
+    <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank"> 
+        <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Caret_logo.png" alt="caret" width="35" height="35"/></code> 
     </a> 
-    <a href="https://aws.amazon.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
-    </a>
+    <a href="https://shiny.rstudio.com/" target="_blank"> 
+        <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Shiny-logo.png" alt="shiny" width="35" height="35"/></code> 
+    </a> 
 </p>
 <br>
 
-## 🎧 Spotify Playing:
 
-<p align="center">
-    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
-        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
-    </a>
-</p>
-<br>
 
-## 🏆 GitHub Trophies:
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=8&row=1">
-</p>
-<br>
-
-## 📈 GitHub Contribution Graph:
-
-<div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=mirsazzathossain&theme=minimal"/>
-</div>
-<br>
-
-## 📊 GitHub Stats:
-
-<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
-<br>
-
-## 🚧 Open source projects:
-
-<table align="center">
-    <thead align="center">
-        <tr border: none;>
-            <td><b>🎁 Projects</b></td>
-            <td><b>⭐ Stars</b></td>
-            <td><b>📚 Forks</b></td>
-            <td><b>🛎 Issues</b></td>
-            <td><b>📬 Pull requests</b></td>
-            <td><b>👨‍💻 Language</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/mirsazzathossain/mirsazzathossain.me.git"><b>mirsazzathossain.me</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/mirsazzathossain.me?style=flat-square"/></td>
-        </tr>
-    </tbody>
-</table>
-<br>
 
 ## 🕑 Wakatime Stats:
 
