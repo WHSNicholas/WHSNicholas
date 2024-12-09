@@ -16,7 +16,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 - 💼 Actively looking for internships in quantitative finance
 - 💬 Ask me about anything related to mathematics, statistics and computer science
 - 📫 Reach me at: [Gmail](mailto:WHSNicholas@gmail.com)
-- 🧾 Check out my [resume]("https://github.com/WHSNicholas/WHSNicholas/blob/main/files/Nicholas Wong Resume.pdf").
+- 🧾 Check out my [resume](https://github.com/WHSNicholas/WHSNicholas/blob/main/files/Nicholas%Wong%Resume.pdf).
 
 
 ## 🛠️ Languages and Tools I use:
