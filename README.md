@@ -10,21 +10,14 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 <br>
 
 ## ⚡ A Few Quick Facts:
-
 - 🔭 Currently Working on research in PDE Model Emulation using Neural Networks
 - 🪐 Expanding my knowledge in stochastic calculus and Maxwell's electromagnetism
 - 👨🏻‍💻 Eager to collaborate on exciting machine learning applications
 - 💼 Actively looking for internships in quantitative finance
 - 💬 Ask me about anything related to mathematics, statistics and computer science
 - 📫 Reach me at: [Gmail](mailto:WHSNicholas@gmail.com)
-- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
-- 📝 I sometimes write articles on [my blog](https://mirsazzathossain.me/articles).
-- ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
+- 🧾 Check out my [resume](https://github.com/WHSNicholas/WHSNicholas/blob/main/files/Nicholas Wong Resume.pdf).
 
-&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea...
-
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
-<br>
 
 ## 🛠️ Languages and Tools I use:
 
@@ -33,15 +26,15 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
     <a href="https://www.python.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
     </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></code> 
+    <a href="https://www.r-project.org" target="_blank"> 
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="35" height="35"/></code> 
     </a> 
-    <a href="https://www.java.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/></code> 
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="35" height="35"/></code> 
     </a> 
-    <a href="https://www.javascript.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
-    </a> 
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
+        <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="35" height="35"/></code> 
+    </a>
     <!-- Frameworks / Libraries -->
     <a href="https://pytorch.org/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
