@@ -9,19 +9,14 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 <p><a href="https://www.linkedin.com/in/nicholas-wong-509a9b208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:WHSNicholas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 <br>
 
-
-
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
-
-- 🔭 Currently Working on several Computer Vision projects.
-- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
-- 👯 Eager to collaborate on exciting Computer Vision research projects.
-- 🤔 Actively looking for Ph.D. opportunities in computer vision and machine learning.
-- 💬 Ask me about anything related to cutting-edge tech and research.
-- 📫 Reach me at: [Gmail](mailto:mirsazzathossain@gmail.com)
-- 😄 Pronouns: He/Him
+- 🔭 Currently Working on research in PDE Model Emulation using Neural Networks
+- 🪐 Expanding my knowledge in stochastic calculus and Maxwell's electromagnetism
+- 👨🏻‍💻 Eager to collaborate on exciting machine learning applications
+- 💼 Actively looking for internships in quantitative finance
+- 💬 Ask me about anything related to mathematics, statistics and computer science
+- 📫 Reach me at: [Gmail](mailto:WHSNicholas@gmail.com)
 - 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
 - 📝 I sometimes write articles on [my blog](https://mirsazzathossain.me/articles).
 - ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
