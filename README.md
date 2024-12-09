@@ -58,8 +58,8 @@ Feel free to reach out to discuss **ideas** or ask research-related questions ðŸ
     <a href="https://www.tidyverse.org/" target="_blank">
     <code><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" alt="tidyverse" width="35" height="35"/></code>
     </a>
-    <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank">
-    <img src="https://github.com/WHSNicholas/WHSNicholas/blob/main/images/caret.png" alt="caret" width="35" height="60"/>
+    <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://github.com/WHSNicholas/WHSNicholas/blob/main/images/caret.png" alt="caret" width="35" height="35" style="display: block;"/>
     </a>
 </p>
 <br>
