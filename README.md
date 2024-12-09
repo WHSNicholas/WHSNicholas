@@ -16,7 +16,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 - 💼 Actively looking for internships in quantitative finance
 - 💬 Ask me about anything related to mathematics, statistics and computer science
 - 📫 Reach me at: [Gmail](mailto:WHSNicholas@gmail.com)
-- 🧾 Check out my [resume](https://github.com/WHSNicholas/WHSNicholas/blob/main/files/Nicholas Wong Resume.pdf).
+- 🧾 Check out my [resume](https://github.com/WHSNicholas/WHSNicholas/blob/main/files/NicholasWongResume.pdf).
 
 
 ## 🛠️ Languages and Tools I use:
@@ -55,18 +55,15 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
     <a href="https://ggplot2.tidyverse.org/" target="_blank"> 
     <code><img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="35" height="35"/></code> 
     </a> 
-    <a href="https://www.tidyverse.org/" target="_blank"> 
-    <code><img src="https://github.com/rstudio/hex-stickers/blob/master/PNG/tidyverse.png?raw=true" alt="tidyverse" width="35" height="35"/></code> 
-    </a> 
     <a href="https://www.tidyverse.org/" target="_blank">
     <code><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" alt="tidyverse" width="35" height="35"/></code>
     </a>
-    <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank"> 
-        <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Caret_logo.png" alt="caret" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://shiny.rstudio.com/" target="_blank"> 
-        <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Shiny-logo.png" alt="shiny" width="35" height="35"/></code> 
-    </a> 
+    <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/topepo/caret/master/inst/Logo/caret.png" alt="caret" width="35" height="35"/>
+    </a>
+    <a href="https://shiny.rstudio.com/" target="_blank">
+    <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="shiny" width="35" height="35"/>
+    </a>
 </p>
 <br>
 
@@ -132,9 +129,6 @@ No Activity Tracked This Week
 ```text
 R                        1 repo              █████████████████████████   100.00 % 
 ```
-
-
-
 
 <!--END_SECTION:waka-->
 
