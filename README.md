@@ -50,16 +50,13 @@ Feel free to reach out to discuss **ideas** or ask research-related questions ðŸ
     </a> 
     <a href="https://www.tensorflow.org" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://xgboost.readthedocs.io/" target="_blank"> 
-        <code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/XGBoost_logo.png" alt="xgboost" width="35" height="35"/></code> 
     </a>
     <!-- R Libraries -->
     <a href="https://ggplot2.tidyverse.org/" target="_blank"> 
         <code><img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="35" height="35"/></code> 
     </a> 
     <a href="https://www.tidyverse.org/" target="_blank"> 
-        <code><img src="https://www.tidyverse.org/images/tidyverse-logo.png" alt="tidyverse" width="35" height="35"/></code> 
+        <code><img src="https://github.com/rstudio/hex-stickers/blob/master/PNG/tidyverse.png?raw=true" alt="tidyverse" width="35" height="35"/></code> 
     </a> 
     <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank"> 
         <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Caret_logo.png" alt="caret" width="35" height="35"/></code> 
