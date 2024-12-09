@@ -23,40 +23,45 @@ Feel free to reach out to discuss **ideas** or ask research-related questions ðŸ
 
 <p align="center"> 
     <!-- Languages -->
-    <a href="https://www.python.org" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://www.python.org" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35" style="vertical-align: top;"/>
     </a> 
-    <a href="https://www.r-project.org" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://www.r-project.org" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="35" height="35" style="vertical-align: top;"/>
     </a> 
-    <a href="https://www.w3schools.com/c/" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://www.w3schools.com/c/" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="35" height="35" style="vertical-align: top;"/>
     </a> 
-    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="35" height="35" style="vertical-align: top;"/>
     </a>
     <!-- Python Libraries -->
-    <a href="https://numpy.org/" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://numpy.org/" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35" style="vertical-align: top;"/>
     </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35" style="vertical-align: top;"/>
     </a> 
-    <a href="https://scikit-learn.org/" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://scikit-learn.org/" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="35" height="35" style="vertical-align: top;"/>
     </a> 
-    <a href="https://pytorch.org/" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://pytorch.org/" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35" style="vertical-align: top;"/>
     </a> 
-    <a href="https://www.tensorflow.org" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://www.tensorflow.org" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35" style="vertical-align: top;"/>
     </a>
     <!-- R Libraries -->
-    <a href="https://ggplot2.tidyverse.org/" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="35" height="35" style="vertical-align: middle;"/>
+    <a href="https://ggplot2.tidyverse.org/" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="35" height="35" style="vertical-align: top;"/>
     </a> 
-    <a href="https://www.tidyverse.org/" target="_blank" style="text-decoration: none; border: none;">
-        <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" alt="tidyverse" width="35" height="35"
+    <a href="https://www.tidyverse.org/" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" alt="tidyverse" width="35" height="35" style="vertical-align: top;"/>
+    </a>
+    <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://github.com/WHSNicholas/WHSNicholas/blob/main/images/caret.png" alt="caret" width="35" height="35" style="vertical-align: top;"/>
+    </a>
+</p>
 <br>
 
 
