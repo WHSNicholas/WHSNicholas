@@ -2,14 +2,14 @@
 
 ## Hi there, I'm [Nicholas Wong!](https://google.com)
 
-I am a **Junior Research Scientist** 🧑‍🔬 at the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️, with a strong background in **computer vision** and **machine learning** 💻. Over the past two years, I have actively contributed to these fields, publishing research articles in well-regarded conferences such as **ICIP** and **IJCNN** 🔬. My primary research interests revolve around **computer vision** and solving real-world problems using cutting-edge techniques ✨. 
-
-Currently, I am working on projects including **domain adaptation**, **Mixture-of-Experts** for **large multi-modal models (LMMS)**, **protein dynamics prediction** using **3D CNNs**, and **particle jet tagging** with **graph neural networks** 🔥. I am passionate about learning new topics, contributing to **groundbreaking research**, and sharing valuable insights that help others 🤓. 
+I am a **Mathematics Honours Student** 📚 at the **University of New South Wales** 🏫, majoring in **statistics** and **actuarial sciences**. I have undertaken coursework in various areas such as **stochastic processess**, **statistical modelling**, **statistical machine learning** and **bayesian inference** with a high distinction average. Currently I am working on research in **PDE model emulation using neural networks**, understanding how **Fourier Neural Operators** provide the solution operator of a PDE.
 
 Feel free to reach out to discuss **ideas** or ask research-related questions 💬!
 
-<p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/nicholas-wong-509a9b208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:WHSNicholas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 <br>
+
+
 
 ## ⚡ A Few Quick Facts:
 
