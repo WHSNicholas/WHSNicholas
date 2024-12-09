@@ -16,7 +16,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 - 💼 Actively looking for internships in quantitative finance
 - 💬 Ask me about anything related to mathematics, statistics and computer science
 - 📫 Reach me at: [Gmail](mailto:WHSNicholas@gmail.com)
-- 🧾 Check out my [resume](https://github.com/WHSNicholas/WHSNicholas/blob/main/files/NicholasWongResume.pdf).
+- 🧾 Check out my [resume]("https://github.com/WHSNicholas/WHSNicholas/blob/main/files/Nicholas Wong Resume.pdf").
 
 
 ## 🛠️ Languages and Tools I use:
@@ -60,9 +60,6 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
     </a>
     <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank">
     <img src="https://raw.githubusercontent.com/topepo/caret/master/inst/Logo/caret.png" alt="caret" width="35" height="35"/>
-    </a>
-    <a href="https://shiny.rstudio.com/" target="_blank">
-    <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="shiny" width="35" height="35"/>
     </a>
 </p>
 <br>
