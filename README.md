@@ -65,6 +65,66 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 124 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌆 Daytime                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+🌃 Evening                38 commits          ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌙 Night                  64 commits          █████████████░░░░░░░░░░░░   50.79 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Tuesday                  71 commits          ██████████████░░░░░░░░░░░   56.35 % 
+Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Sunday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in R** 
+
+```text
+R                        1 repo              █████████████████████████   100.00 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 <p align="center">
