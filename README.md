@@ -59,7 +59,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions ðŸ
         <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" alt="tidyverse" width="35" height="35" style="vertical-align: top;"/>
     </a>
     <a href="https://cran.r-project.org/web/packages/caret/index.html" target="_blank" style="text-decoration: none; display: inline-block;">
-        <img src="https://github.com/WHSNicholas/WHSNicholas/blob/main/images/caret.png" alt="caret" width="35" height="35" style="vertical-align: top;"/>
+        <img src="https://github.com/WHSNicholas/WHSNicholas/blob/main/images/caret.png" alt="caret" width="45" height="45" style="vertical-align: top;"/>
     </a>
 </p>
 <br>
