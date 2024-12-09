@@ -62,75 +62,10 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 <br>
 
 
-
-
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 126 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 0 Private Repository 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-🌆 Daytime                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-🌃 Evening                38 commits          ████████░░░░░░░░░░░░░░░░░   30.65 % 
-🌙 Night                  64 commits          █████████████░░░░░░░░░░░░   51.61 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Tuesday                  69 commits          ██████████████░░░░░░░░░░░   55.65 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Sunday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in R** 
-
-```text
-R                        1 repo              █████████████████████████   100.00 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
