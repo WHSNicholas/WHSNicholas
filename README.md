@@ -69,7 +69,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 144 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -104,16 +104,16 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   8 hrs 53 mins       █████████████████████████   100.00 % 
+Python                   6 hrs 23 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 53 mins       █████████████████████████   100.00 % 
+PyCharm                  6 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VicRoads-Fatalities      8 hrs 53 mins       █████████████████████████   100.00 % 
+VicRoads-Fatalities      6 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
