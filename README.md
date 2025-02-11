@@ -69,6 +69,8 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 11 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -102,16 +104,16 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 8 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  3 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+VicRoads-Fatalities      3 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
