@@ -104,19 +104,16 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   6 hrs 2 mins        ████████████████████████░   94.52 % 
-R                        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Jupyter                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  6 hrs 23 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Statistical-Arbitrage-Cry6 hrs 23 mins       █████████████████████████   99.98 % 
-VicRoads-Fatalities      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 23 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in R** 
