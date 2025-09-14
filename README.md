@@ -69,8 +69,6 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -104,16 +102,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         █████████████████████████   100.00 % 
+Python                   4 hrs 10 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 1 min         █████████████████████████   100.00 % 
+PyCharm                  4 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FourierNeuralOperators   2 hrs 1 min         █████████████████████████   100.00 % 
+FourierNeuralOperators   4 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
