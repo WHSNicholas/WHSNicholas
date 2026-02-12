@@ -104,17 +104,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   32 mins             ██████████████████░░░░░░░   72.43 % 
-YAML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Personal-Finance         44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
