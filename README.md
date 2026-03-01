@@ -104,16 +104,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   10 mins             █████████████████████████   99.98 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Personal-Finance         10 mins             ████████████████████████░   96.03 % 
+DermScreen-Statistical-An0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
