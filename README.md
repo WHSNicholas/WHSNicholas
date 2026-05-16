@@ -77,6 +77,45 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+🌆 Daytime                32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+🌃 Evening                61 commits          █████████░░░░░░░░░░░░░░░░   36.53 % 
+🌙 Night                  54 commits          ████████░░░░░░░░░░░░░░░░░   32.34 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Tuesday                  97 commits          ███████████████░░░░░░░░░░   58.08 % 
+Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Friday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
