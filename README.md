@@ -106,22 +106,42 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+R                        2 hrs 10 mins       █████████████████████░░░░   85.43 % 
+Text                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 hrs 2 mins        ████████████████████░░░░░   80.15 % 
+Claude Code              30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FRN                      2 hrs 32 mins       █████████████████████████   99.73 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 24 mins (55.22%)
+
+✍️ 0 lines written by AI, 68 lines written by hand (0.0% AI-written)
+
+🔤 154,918 Input Tokens, 63,989 Output Tokens
+
+💵 $4.93 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 17 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 762 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
