@@ -65,7 +65,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2038%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,42 +106,45 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-R                        2 hrs 10 mins       █████████████████████░░░░   85.43 % 
-Text                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+R                        6 hrs 52 mins       █████████████████████░░░░   83.20 % 
+Text                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 2 mins        ████████████████████░░░░░   80.15 % 
-Claude Code              30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+PyCharm                  6 hrs 35 mins       ████████████████████░░░░░   79.66 % 
+Claude Code              1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 
 🐱‍💻 Projects: 
-FRN                      2 hrs 32 mins       █████████████████████████   99.73 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+FRN                      8 hrs 15 mins       █████████████████████████   99.91 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (55.22%)
+⏱ AI Coding Time: 4 hrs 1 min (48.75%)
 
-✍️ 0 lines written by AI, 68 lines written by hand (0.0% AI-written)
+✍️ 1,758 lines written by AI, 376 lines written by hand (82.38% AI-written)
 
-🔤 154,918 Input Tokens, 63,989 Output Tokens
+🔤 1,079,599 Input Tokens, 210,806 Output Tokens
 
-💵 $4.93 Estimated AI Cost This Week
+💵 $27.90 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 7 AI Sessions, 44 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    1,576 lines         ██████████████████████░░░   89.65 % 
+Opus                     182 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 762 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 82.38% of written lines came from AI
+📄 Detailed Prompter — average 634 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 40.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
