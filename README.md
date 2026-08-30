@@ -106,47 +106,46 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-R                        9 hrs 38 mins       ██████████████████████░░░   87.39 % 
-Text                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+R                        7 hrs 27 mins       ██████████████████████░░░   87.99 % 
+Text                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 33 mins       ███████████████████░░░░░░   77.66 % 
-Claude Code              2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-RStudio                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+PyCharm                  6 hrs 31 mins       ███████████████████░░░░░░   76.91 % 
+Claude Code              1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+RStudio                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-FRN                      11 hrs              █████████████████████████   99.87 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Floating Rate Note Pricin0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+FRN                      8 hrs 28 mins       █████████████████████████   99.92 % 
+Floating Rate Note Pricin0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      11 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 49 mins (52.83%)
+⏱ AI Coding Time: 4 hrs 25 mins (52.11%)
 
-✍️ 1,758 lines written by AI, 393 lines written by hand (81.73% AI-written)
+✍️ 1,758 lines written by AI, 325 lines written by hand (84.4% AI-written)
 
-🔤 1,144,882 Input Tokens, 250,367 Output Tokens
+🔤 989,964 Input Tokens, 186,378 Output Tokens
 
-💵 $42.17 Estimated AI Cost This Week
+💵 $37.24 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 64 AI Prompts
+🧠 4 AI Sessions, 47 AI Prompts
 
 Fable                    1,576 lines         ██████████████████████░░░   89.65 % 
 Opus                     182 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.73% of written lines came from AI
-📄 Detailed Prompter — average 500 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 42.92% of changed lines were hand-edited
+🤖 AI-Driven — 84.4% of written lines came from AI
+📝 Concise Prompter — average 405 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 40.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
