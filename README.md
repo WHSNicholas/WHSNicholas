@@ -106,46 +106,42 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-R                        7 hrs 27 mins       ██████████████████████░░░   87.99 % 
-Text                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+R                        2 hrs 45 mins       █████████████████████████   99.99 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 31 mins       ███████████████████░░░░░░   76.91 % 
-Claude Code              1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-RStudio                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+PyCharm                  1 hr 58 mins        ██████████████████░░░░░░░   71.65 % 
+Claude Code              42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+RStudio                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🐱‍💻 Projects: 
-FRN                      8 hrs 28 mins       █████████████████████████   99.92 % 
-Floating Rate Note Pricin0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+FRN                      2 hrs 45 mins       █████████████████████████   99.77 % 
+Floating Rate Note Pricin0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 25 mins (52.11%)
+⏱ AI Coding Time: 1 hr 47 mins (65.05%)
 
-✍️ 1,758 lines written by AI, 325 lines written by hand (84.4% AI-written)
+✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
 
-🔤 989,964 Input Tokens, 186,378 Output Tokens
+🔤 65,283 Input Tokens, 39,561 Output Tokens
 
-💵 $37.24 Estimated AI Cost This Week
+💵 $14.27 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 47 AI Prompts
+🧠 1 AI Sessions, 20 AI Prompts
 
-Fable                    1,576 lines         ██████████████████████░░░   89.65 % 
-Opus                     182 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.4% of written lines came from AI
-📝 Concise Prompter — average 405 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 40.29% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
