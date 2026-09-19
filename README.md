@@ -106,39 +106,43 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   27 mins             ███████████████████████░░   90.81 % 
-CSV                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Other                    52 mins             ████████████████░░░░░░░░░   63.81 % 
+Python                   27 mins             ████████░░░░░░░░░░░░░░░░░   32.88 % 
+CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-PyCharm                  25 mins             ███████████████████░░░░░░   77.71 % 
-Claude Code              7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Codex Vscode             45 mins             █████████████░░░░░░░░░░░░   53.03 % 
+PyCharm                  32 mins             ██████████░░░░░░░░░░░░░░░   38.44 % 
+Claude Code              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 
 🐱‍💻 Projects: 
-FourierNeuralOperators   27 mins             ███████████████████████░░   90.81 % 
-Floating Rate Note Pricin2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+ex                       45 mins             ██████████████░░░░░░░░░░░   54.91 % 
+FourierNeuralOperators   34 mins             ██████████░░░░░░░░░░░░░░░   41.78 % 
+Floating Rate Note Pricin2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (23.46%)
+⏱ AI Coding Time: 59 mins (72.27%)
 
 ✍️ 27 lines written by AI, 185 lines written by hand (12.74% AI-written)
 
-🔤 47,917 Input Tokens, 3,525 Output Tokens
+🔤 201,415 Input Tokens, 23,814 Output Tokens
 
-💵 $8.97 Estimated AI Cost This Week
+💵 $13.39 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
 Fable                    27 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 12.74% of written lines came from AI
-📄 Detailed Prompter — average 556 characters per prompt
+📄 Detailed Prompter — average 776 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 87.26% of changed lines were hand-edited
 ```
