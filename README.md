@@ -106,19 +106,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    52 mins             ████████████████░░░░░░░░░   63.81 % 
-Python                   27 mins             ████████░░░░░░░░░░░░░░░░░   32.88 % 
-CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Other                    1 hr 21 mins        █████████████████████████   99.85 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Codex Vscode             45 mins             █████████████░░░░░░░░░░░░   53.03 % 
-PyCharm                  32 mins             ██████████░░░░░░░░░░░░░░░   38.44 % 
-Claude Code              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Codex Vscode             49 mins             ███████████████░░░░░░░░░░   59.92 % 
+PyCharm                  32 mins             ██████████░░░░░░░░░░░░░░░   40.08 % 
 
 🐱‍💻 Projects: 
-ex                       45 mins             ██████████████░░░░░░░░░░░   54.91 % 
-FourierNeuralOperators   34 mins             ██████████░░░░░░░░░░░░░░░   41.78 % 
-Floating Rate Note Pricin2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+ex                       45 mins             ██████████████░░░░░░░░░░░   55.45 % 
+https-modedesigns-com-pro18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+FourierNeuralOperators   18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
 
 💻 Operating System: 
 Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
@@ -127,24 +125,24 @@ Mac                      1 hr 22 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (72.27%)
+⏱ AI Coding Time: 1 hr 21 mins (99.85%)
 
-✍️ 27 lines written by AI, 185 lines written by hand (12.74% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 201,415 Input Tokens, 23,814 Output Tokens
+🔤 427,304 Input Tokens, 29,794 Output Tokens
 
-💵 $13.39 Estimated AI Cost This Week
+💵 $12.71 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 9 AI Sessions, 17 AI Prompts
 
-Fable                    27 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.74% of written lines came from AI
-📄 Detailed Prompter — average 776 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 87.26% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 954 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
