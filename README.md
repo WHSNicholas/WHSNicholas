@@ -106,41 +106,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    52 mins             █████████████████████████   99.77 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             45 mins             █████████████████████░░░░   85.86 % 
-PyCharm                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ex                       45 mins             █████████████████████░░░░   85.86 % 
-FourierNeuralOperators   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (99.77%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 153,498 Input Tokens, 20,289 Output Tokens
-
-💵 $4.42 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 13 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 827 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
