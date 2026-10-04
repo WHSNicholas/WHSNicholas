@@ -106,22 +106,44 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    5 hrs 50 mins       ██████████████░░░░░░░░░░░   57.45 % 
+Markdown                 3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.75 % 
+Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  8 hrs 14 mins       ████████████████████░░░░░   80.97 % 
+Codex Vscode             1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Claude Code              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FourierNeuralOperators   10 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 hrs 53 mins (97.15%)
+
+✍️ 2,408 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 7,862,585 Input Tokens, 1,009,329 Output Tokens
+
+💵 $271.21 Estimated AI Cost This Week
+
+🧠 81 AI Sessions, 42 AI Prompts
+
+GPT                      2,262 lines         ███████████████████████░░   93.09 % 
+Fable                    168 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,007 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 3.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
