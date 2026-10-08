@@ -65,7 +65,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,34 +106,34 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    3 hrs 59 mins       ██████████████░░░░░░░░░░░   56.51 % 
-Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-Python                   1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Other                    3 hrs 43 mins       ██████████████░░░░░░░░░░░   54.82 % 
+Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+Python                   1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 6 mins        ██████████████████░░░░░░░   72.53 % 
-Codex Vscode             1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Claude Code              50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+PyCharm                  4 hrs 51 mins       ██████████████████░░░░░░░   71.46 % 
+Codex Vscode             1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Claude Code              50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 
 🐱‍💻 Projects: 
-FourierNeuralOperators   7 hrs 3 mins        █████████████████████████   100.00 % 
+FourierNeuralOperators   6 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 45 mins (95.89%)
+⏱ AI Coding Time: 6 hrs 29 mins (95.73%)
 
 ✍️ 2,130 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,133,527 Input Tokens, 889,995 Output Tokens
+🔤 7,006,063 Input Tokens, 888,009 Output Tokens
 
-💵 $246.20 Estimated AI Cost This Week
+💵 $244.21 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 39 AI Prompts
+🧠 44 AI Sessions, 38 AI Prompts
 
 GPT                      1,984 lines         ███████████████████████░░   92.19 % 
 Fable                    168 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
@@ -141,7 +141,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,285 characters per prompt
+📚 Verbose Prompter — average 4,376 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 3.97% of changed lines were hand-edited
 ```
