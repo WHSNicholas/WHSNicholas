@@ -106,34 +106,34 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    3 hrs 13 mins       █████████████████░░░░░░░░   67.92 % 
-Python                   1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    2 hrs 23 mins       ███████████████░░░░░░░░░░   61.02 % 
+Python                   1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 48 mins       ███████████████░░░░░░░░░░   59.23 % 
-Codex Vscode             1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Claude Code              50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+PyCharm                  2 hrs 28 mins       ████████████████░░░░░░░░░   63.21 % 
+Claude Code              50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Codex Vscode             36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 
 🐱‍💻 Projects: 
-FourierNeuralOperators   4 hrs 45 mins       █████████████████████████   100.00 % 
+FourierNeuralOperators   3 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 27 mins (93.9%)
+⏱ AI Coding Time: 3 hrs 37 mins (92.58%)
 
 ✍️ 146 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,803,023 Input Tokens, 691,763 Output Tokens
+🔤 1,370,610 Input Tokens, 158,595 Output Tokens
 
-💵 $200.27 Estimated AI Cost This Week
+💵 $35.80 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 38 AI Prompts
+🧠 16 AI Sessions, 29 AI Prompts
 
 Fable                    168 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -141,7 +141,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,376 characters per prompt
+📚 Verbose Prompter — average 2,095 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 34.63% of changed lines were hand-edited
 ```
