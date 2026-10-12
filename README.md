@@ -106,22 +106,40 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 4 mins         ████████████████████░░░░░   81.85 % 
+Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 3 mins         ████████████████████░░░░░   80.72 % 
+Codex Vscode             15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FourierNeuralOperators   1 hr 18 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 18 mins (100.0%)
+
+✍️ 772 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,007,045 Input Tokens, 69,550 Output Tokens
+
+💵 $26.12 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 8 AI Prompts
+
+GPT                      772 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,198 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
