@@ -71,7 +71,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,19 +82,19 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-🌆 Daytime                33 commits          █████████░░░░░░░░░░░░░░░░   36.26 % 
-🌃 Evening                42 commits          ████████████░░░░░░░░░░░░░   46.15 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+🌆 Daytime                39 commits          ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+🌃 Evening                61 commits          █████████░░░░░░░░░░░░░░░░   35.06 % 
+🌙 Night                  54 commits          ████████░░░░░░░░░░░░░░░░░   31.03 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Tuesday                  39 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Thursday                 14 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Tuesday                  97 commits          ██████████████░░░░░░░░░░░   55.75 % 
+Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Friday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -127,9 +127,9 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ███████████████░░░░░░░░░░   60.00 % 
-HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-R                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   4 repos             █████████████████░░░░░░░░   66.67 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+R                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
